@@ -1,4 +1,13 @@
 {
   "latest": "2.4.1",
-  "releases": []
+  "releases": [
+    {
+      "version": "2.4.1",
+      "date": "2026-09-03",
+      "notes": "客户端自动更新上线：新版本可在应用内检查、下载、安装并自动重启；下载经 SHA256 校验，失败自动回滚",
+      "cloud_dmg_url": "https://github.com/xiaoanjya/YCXType-releases/releases/download/v2.4.1/YCXType-v2.4.1-cloud.dmg",
+      "cloud_dmg_size": 11831276,
+      "cloud_dmg_sha256": "0a8cacc8f4e1136d774cdd18e4261328d7b0eebc65445205b3d2839baaef9fbd"
+    }
+  ]
 }
