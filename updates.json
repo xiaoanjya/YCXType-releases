@@ -2,6 +2,14 @@
   "latest": "2.4.2",
   "releases": [
     {
+      "version": "2.4.2",
+      "date": "2026-09-04",
+      "notes": "与 2.4.1 功能一致，用于验证客户端内自动更新全链路（发现 → 下载 → 校验 → 安装 → 重启）",
+      "cloud_dmg_url": "https://github.com/xiaoanjya/YCXType-releases/releases/download/v2.4.2/YCXType-v2.4.2-cloud.dmg",
+      "cloud_dmg_size": 11831261,
+      "cloud_dmg_sha256": "daa577a67d984c86a4d63ea04beb3ba9482da3860f7ac008ee56928da9bdd772"
+    },
+    {
       "version": "2.4.1",
       "date": "2026-09-03",
       "notes": "客户端自动更新上线：新版本可在应用内检查、下载、安装并自动重启；下载经 SHA256 校验，失败自动回滚",
