@@ -1,6 +1,14 @@
 {
-  "latest": "2.6.0",
+  "latest": "2.6.1",
   "releases": [
+    {
+      "version": "2.6.1",
+      "date": "2026-10-19",
+      "notes": "YCXType v2.6.1",
+      "cloud_dmg_url": "https://github.com/xiaoanjya/YCXType-releases/releases/download/v2.6.1/YCXType-v2.6.1-cloud.dmg",
+      "cloud_dmg_size": 27839355,
+      "cloud_dmg_sha256": "429556840a134e9ade5211e43553e4777b9bf7c912e89125235f747feefb4ecb"
+    },
     {
       "version": "2.6.0",
       "date": "2026-10-18",
